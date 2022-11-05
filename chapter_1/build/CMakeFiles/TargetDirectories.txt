@@ -1,0 +1,5 @@
+/home/budali11/git/UNIX-Network-Programming/chapter_1/build/CMakeFiles/rebuild_cache.dir
+/home/budali11/git/UNIX-Network-Programming/chapter_1/build/CMakeFiles/edit_cache.dir
+/home/budali11/git/UNIX-Network-Programming/chapter_1/build/Src/CMakeFiles/rebuild_cache.dir
+/home/budali11/git/UNIX-Network-Programming/chapter_1/build/Src/CMakeFiles/edit_cache.dir
+/home/budali11/git/UNIX-Network-Programming/chapter_1/build/Src/CMakeFiles/main.dir

@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/.",
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "unp.h": "c"
+    }
+}
